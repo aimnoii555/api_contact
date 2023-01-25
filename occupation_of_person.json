@@ -1,0 +1,27 @@
+[
+  {
+    "occupation_id": 1,
+    "name": "Chief Executive Officer",
+    "description": "Responsible for the overall strategic direction and leadership of the company.",
+    "occupation_class_id": 1,
+    "created_at": "2022-01-01T12:00:00Z",
+    "updated_at": "2022-01-01T12:00:00Z"
+},
+{
+    "occupation_id": 2,
+    "name": "Chief Financial Officer",
+    "description": "Responsible for the financial management and planning of the company.",
+    "occupation_class_id": 2,
+    "created_at": "2022-01-01T12:00:00Z",
+    "updated_at": "2022-01-01T12:00:00Z"
+},
+{
+    "occupation_id": 3,
+    "name": "Software Engineer",
+    "description": "Responsible for designing, developing and maintaining software applications.",
+    "occupation_class_id": 3,
+    "created_at": "2022-01-01T12:00:00Z",
+    "updated_at": "2022-01-01T12:00:00Z"
+}
+   
+]
