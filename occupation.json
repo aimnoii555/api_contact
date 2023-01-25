@@ -1,0 +1,27 @@
+[
+  {
+    "occupation_class_id": 1,
+    "name": "Management",
+    "description": "Includes occupations in planning, organizing, directing, and evaluating the overall operations of companies and organizations.",
+    "parent_id": null,
+    "created_at": "2022-01-01T12:00:00Z",
+    "updated_at": "2022-01-01T12:00:00Z"
+},
+{
+    "occupation_class_id": 2,
+    "name": "Business and Financial Operations",
+    "description": "Includes occupations in business operations, finance, and accounting.",
+    "parent_id": 1,
+    "created_at": "2022-01-01T12:00:00Z",
+    "updated_at": "2022-01-01T12:00:00Z"
+},
+{
+    "occupation_class_id": 3,
+    "name": "Computer and Mathematical",
+    "description": "Includes occupations in computer science, engineering, and mathematics.",
+    "parent_id": 1,
+    "created_at": "2022-01-01T12:00:00Z",
+    "updated_at": "2022-01-01T12:00:00Z"
+}
+
+]
